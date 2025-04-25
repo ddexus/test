@@ -449,7 +449,7 @@ body {
     }
     .box {
         width: 95%;
-        margin-top: 80px;
+        margin-top: 0;
     }
     .container-box {
         width: 100%;
